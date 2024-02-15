@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Welcome to authentication window"
-echo "enter your name"
+echo "Enter your name"
 read name
-echo "enter your password"
+echo "Enter your password"
 read -s password
 echo "authentication successful"
